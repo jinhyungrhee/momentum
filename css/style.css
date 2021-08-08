@@ -1,0 +1,20 @@
+.hidden {
+    display: none;
+}
+
+body {
+    height: 100vh;
+    background-repeat : no-repeat;
+    background-size : cover;
+}
+
+#container {
+    color: white;
+    position:absolute;
+    left:30%;
+    top:15%;
+}
+
+#clock {
+    font-size:50px;
+}
